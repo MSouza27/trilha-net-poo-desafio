@@ -1,0 +1,15 @@
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.AssemblyInfoInputs.cache
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.AssemblyInfo.cs
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.csproj.CoreCompileInputs.cache
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.sourcelink.json
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.deps.json
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.runtimeconfig.json
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.dll
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.pdb
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.dll
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/obj/Debug/net6.0/refint/DesafioPOO.dll
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.pdb
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.genruntimeconfig.cache
+/Users/magnosouza/Desktop/Development/trilha-net-poo-desafio/obj/Debug/net6.0/ref/DesafioPOO.dll
